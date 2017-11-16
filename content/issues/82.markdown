@@ -12,7 +12,7 @@ undefined
 
 ## In brief
 
-undefined
+[materialize-hakyll: a new hakyll theme based on material design](https://futtetennismo.github.io/materialize-hakyll/)
 
 ## Package of the week
 
